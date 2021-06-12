@@ -39,4 +39,4 @@ Visita la [documentación](https://www.helpdeskz.com) de helpDesk para más info
 
 ### Acceso a la documentación
 
-[Documentación]       de esta página web.
+[Documentación](https://github.com/Jopugo/Jopugo.HelpDeskZ.io) de esta página web.
