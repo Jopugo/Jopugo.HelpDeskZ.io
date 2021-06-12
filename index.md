@@ -26,9 +26,7 @@ Esto son solo algunos ejemplos de lo que puedes hacer con esta herramienta, pero
 
 ## Uso como Usuario
 
-Como usuario podrás acceder a toda la información que es colgada por los administradores.
-
-
+Como usuario podrás acceder a toda la información que es colgada por los administradores, pero no podrás personalizar nada de la página web.
 
 ### Página de HelpDeskz
 
