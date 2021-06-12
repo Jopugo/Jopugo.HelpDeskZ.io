@@ -4,11 +4,11 @@
 
 Con el podrás manejar toda la información que tengas en tu página web, algunos ejemplos son:
 
--Usuarios
--Formato
--Timezone
--Administradores
--información
+- Usuarios
+- Formato
+- Timezone
+- Administradores
+- información
 
 ### Markdown
 
