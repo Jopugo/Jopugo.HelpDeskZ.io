@@ -2,7 +2,13 @@
 
 **Es un software gratuito basado en php que te ayuda a administrar tu página web.**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Con el podrás manejar toda la información que tengas en tu página web, algunos ejemplos son:
+
+-Usuarios
+-Formato
+-Timezone
+-Administradores
+-información
 
 ### Markdown
 
