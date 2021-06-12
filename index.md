@@ -32,7 +32,11 @@ Puedes hacer sugerencias para mejorar la página web.
 
 
 # Conclusión
-Es una buena herramienta para crear/administrar tu página web, con bastantes posibilidades y una interfaz fácil de comprender tanto para el _usuario_ como los _administradores_ y con bastantes comunicación entres estos dos. 
+Es una buena herramienta para crear/administrar tu página web, con bastantes posibilidades y una interfaz fácil de comprender tanto para el _usuario_ como para los _administradores_ y con bastantes comunicación entres estos dos. 
 
 ### Página de HelpDeskz
 Visita la [documentación](https://www.helpdeskz.com) de helpDesk para más información.
+
+### Acceso a la documentación
+
+[Documentación]       de esta página web.
