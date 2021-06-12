@@ -1,6 +1,6 @@
 ## HelpDeskZ
 
-*Es un software gratuito basado en php que te ayuda a administrar tu página web.*
+**Es un software gratuito basado en php que te ayuda a administrar tu página web.**
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
