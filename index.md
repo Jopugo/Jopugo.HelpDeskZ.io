@@ -3,13 +3,11 @@
 **Es un software gratuito basado en php que te ayuda a administrar tu página web.**
 
 ## Uso como Administrador
-
 Con una cuenta de administrador podrás manejar **toda la información** que tengas en tu página web, como:
 
-- Usuarios
-- Formato
-- Zona horaria
-- información
+- Administrar los Usuarios
+- Cambiar el formato de tu página web
+- Subir o borrar información
 
 O personalizar tu **perfil**:
 
@@ -17,6 +15,7 @@ O personalizar tu **perfil**:
 - Email
 - Cambiar tu contrseña
 - Cambiar tu avatar
+- Zona horaria
 
 Esto son solo algunos ejemplos de lo que puedes hacer con esta herramienta, pero no tendrás que hacerlo solo, ya que puedes seleccionar algunos usuarios para que sean **administradores**, y así ayudar a mantener tu página web. 
 
@@ -25,9 +24,12 @@ Esto son solo algunos ejemplos de lo que puedes hacer con esta herramienta, pero
 
 
 ## Uso como Usuario
-
 Como usuario podrás acceder a toda la información que es colgada por los administradores, pero no podrás personalizar nada de la página web.
+Puedes hacer sugerencias para mejorar la página web.
+
+###Ejemplo de una sugerencia.
+![image](https://user-images.githubusercontent.com/55486982/121778596-7b0acf80-cb8f-11eb-95ab-cdc79aafefef.png)
+
 
 ### Página de HelpDeskz
-
 Visita la [documentación](https://www.helpdeskz.com) de helpDesk para más información.
