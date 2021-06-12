@@ -7,12 +7,9 @@ Con el podrás manejar toda la información que tengas en tu página web, alguno
 - Usuarios
 - Formato
 - Timezone
-- Administradores
 - información
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Pero no tendrás que hacerlo solo, ya que puedes seleccionar algunos usuarios para que sean administradores. 
 
 ```markdown
 Syntax highlighted code block
