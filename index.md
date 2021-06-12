@@ -2,14 +2,14 @@
 
 **Es un software gratuito basado en php que te ayuda a administrar tu página web.**
 
-Con el podrás manejar toda la información que tengas en tu página web, algunos ejemplos son:
+Con el podrás manejar toda la información que tengas en tu página web, como:
 
 - Usuarios
 - Formato
 - Timezone
 - información
 
-Pero no tendrás que hacerlo solo, ya que puedes seleccionar algunos usuarios para que sean administradores. 
+Esto son solo algunos ejemplos de lo que puedes hacer con esta herramienta, pero no tendrás que hacerlo solo, ya que puedes seleccionar algunos usuarios para que sean **administradores**, y así ayudar a mantener tu página web. 
 
 ```markdown
 Syntax highlighted code block
